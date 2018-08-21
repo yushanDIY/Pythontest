@@ -1,8 +1,5 @@
 
-import ftptool
-import http
 import random
-from ftplib import FTP
 
 
 def getadd(a, b):
