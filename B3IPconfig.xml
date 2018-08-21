@@ -1,0 +1,390 @@
+<B3>
+	<ZB>
+		<fzjh>
+10.30.130.19 xsls.crmprd.cnpc
+10.30.130.19 authb2c.crmprd.cnpc
+10.30.130.19 devb2c.crmprd.cnpc
+10.30.130.19 internalb2c.crmprd.cnpc
+10.30.130.21 trq.crmprd.cnpc
+10.30.130.21 rly.crmprd.cnpc
+10.30.130.21 zbzz.crmprd.cnpc
+10.30.130.21 gcjs.crmprd.cnpc
+10.30.130.21 lyyhg.crmprd.cnpc
+10.30.130.21 xspf.crmprd.cnpc
+10.30.130.21 rhy.crmprd.cnpc
+10.30.130.21 gcjsfw.crmprd.cnpc
+10.30.130.21 kl.crmprd.cpnpc
+10.30.130.21 authb2b.crmprd.cnpc
+10.30.130.21 devb2b.crmprd.cnpc
+10.30.130.21 internalb2b.crmprd.cnpc
+10.30.130.29 adfs.crmprd.cnpc
+10.30.130.29 sts.crmprd.cnpc
+10.30.130.23 reportx.crmprd.cnpc
+10.30.130.27 portal.crmprd.cnpc
+10.30.130.25 m.crmprd.cnpc
+10.30.130.26 cm.crmprd.cnpc
+		</fzjh>
+		<web>
+			<W13>
+10.30.221.13 xsls.crmprd.cnpc
+10.30.221.13 authb2c.crmprd.cnpc
+10.30.221.13 devb2c.crmprd.cnpc
+10.30.221.13 internalb2c.crmprd.cnpc
+			</W13>
+			<W14>
+10.30.221.14 xsls.crmprd.cnpc
+10.30.221.14 authb2c.crmprd.cnpc
+10.30.221.14 devb2c.crmprd.cnpc
+10.30.221.14 internalb2c.crmprd.cnpc
+			</W14>
+			<W15>
+10.30.221.15 xsls.crmprd.cnpc
+10.30.221.15 authb2c.crmprd.cnpc
+10.30.221.15 devb2c.crmprd.cnpc
+10.30.221.15 internalb2c.crmprd.cnpc
+			</W15>
+			<W16>
+10.30.221.16 xsls.crmprd.cnpc
+10.30.221.16 authb2c.crmprd.cnpc
+10.30.221.16 devb2c.crmprd.cnpc
+10.30.221.16 internalb2c.crmprd.cnpc
+			</W16>
+			<W17>
+10.30.221.17 xsls.crmprd.cnpc
+10.30.221.17 authb2c.crmprd.cnpc
+10.30.221.17 devb2c.crmprd.cnpc
+10.30.221.17 internalb2c.crmprd.cnpc
+			</W17>
+			<W18>
+10.30.221.18 xsls.crmprd.cnpc
+10.30.221.18 authb2c.crmprd.cnpc
+10.30.221.18 devb2c.crmprd.cnpc
+10.30.221.18 internalb2c.crmprd.cnpc
+			</W18>
+			<W25>
+10.30.221.25 trq.crmprd.cnpc
+10.30.221.25 rly.crmprd.cnpc
+10.30.221.25 zbzz.crmprd.cnpc
+10.30.221.25 gcjs.crmprd.cnpc
+10.30.221.25 lyyhg.crmprd.cnpc
+10.30.221.25 xspf.crmprd.cnpc
+10.30.221.25 rhy.crmprd.cnpc
+10.30.221.25 gcjsfw.crmprd.cnpc
+10.30.221.25 kl.crmprd.cpnpc
+10.30.221.25 authb2b.crmprd.cnpc
+10.30.221.25 devb2b.crmprd.cnpc
+10.30.221.25 internalb2b.crmprd.cnpc
+			</W25>
+			<W26>
+10.30.221.26 trq.crmprd.cnpc
+10.30.221.26 rly.crmprd.cnpc
+10.30.221.26 zbzz.crmprd.cnpc
+10.30.221.26 gcjs.crmprd.cnpc
+10.30.221.26 lyyhg.crmprd.cnpc
+10.30.221.26 xspf.crmprd.cnpc
+10.30.221.26 rhy.crmprd.cnpc
+10.30.221.26 gcjsfw.crmprd.cnpc
+10.30.221.26 kl.crmprd.cpnpc
+10.30.221.26 authb2b.crmprd.cnpc
+10.30.221.26 devb2b.crmprd.cnpc
+10.30.221.26 internalb2b.crmprd.cnpc
+			</W26>
+			<W27>
+10.30.221.27 trq.crmprd.cnpc
+10.30.221.27 rly.crmprd.cnpc
+10.30.221.27 zbzz.crmprd.cnpc
+10.30.221.27 gcjs.crmprd.cnpc
+10.30.221.27 lyyhg.crmprd.cnpc
+10.30.221.27 xspf.crmprd.cnpc
+10.30.221.27 rhy.crmprd.cnpc
+10.30.221.27 gcjsfw.crmprd.cnpc
+10.30.221.27 kl.crmprd.cpnpc
+10.30.221.27 authb2b.crmprd.cnpc
+10.30.221.27 devb2b.crmprd.cnpc
+10.30.221.27 internalb2b.crmprd.cnpc
+			</W27>
+			<W28>
+				10.30.221.28 trq.crmprd.cnpc
+				10.30.221.28 rly.crmprd.cnpc
+				10.30.221.28 zbzz.crmprd.cnpc
+				10.30.221.28 gcjs.crmprd.cnpc
+				10.30.221.28 lyyhg.crmprd.cnpc
+				10.30.221.28 xspf.crmprd.cnpc
+				10.30.221.28 rhy.crmprd.cnpc
+				10.30.221.28 gcjsfw.crmprd.cnpc
+				10.30.221.28 kl.crmprd.cpnpc
+				10.30.221.28 authb2b.crmprd.cnpc
+				10.30.221.28 devb2b.crmprd.cnpc
+				10.30.221.28 internalb2b.crmprd.cnpc
+			</W28>
+			<W29>
+				10.30.221.29 trq.crmprd.cnpc
+				10.30.221.29 rly.crmprd.cnpc
+				10.30.221.29 zbzz.crmprd.cnpc
+				10.30.221.29 gcjs.crmprd.cnpc
+				10.30.221.29 lyyhg.crmprd.cnpc
+				10.30.221.29 xspf.crmprd.cnpc
+				10.30.221.29 rhy.crmprd.cnpc
+				10.30.221.29 gcjsfw.crmprd.cnpc
+				10.30.221.29 kl.crmprd.cpnpc
+				10.30.221.29 authb2b.crmprd.cnpc
+				10.30.221.29 devb2b.crmprd.cnpc
+				10.30.221.29 internalb2b.crmprd.cnpc
+			</W29>
+			<W30>
+				10.30.221.30 trq.crmprd.cnpc
+				10.30.221.30 rly.crmprd.cnpc
+				10.30.221.30 zbzz.crmprd.cnpc
+				10.30.221.30 gcjs.crmprd.cnpc
+				10.30.221.30 lyyhg.crmprd.cnpc
+				10.30.221.30 xspf.crmprd.cnpc
+				10.30.221.30 rhy.crmprd.cnpc
+				10.30.221.30 gcjsfw.crmprd.cnpc
+				10.30.221.30 kl.crmprd.cpnpc
+				10.30.221.30 authb2b.crmprd.cnpc
+				10.30.221.30 devb2b.crmprd.cnpc
+				10.30.221.30 internalb2b.crmprd.cnpc
+			</W30>
+			<W31>
+				10.30.221.31 trq.crmprd.cnpc
+				10.30.221.31 rly.crmprd.cnpc
+				10.30.221.31 zbzz.crmprd.cnpc
+				10.30.221.31 gcjs.crmprd.cnpc
+				10.30.221.31 lyyhg.crmprd.cnpc
+				10.30.221.31 xspf.crmprd.cnpc
+				10.30.221.31 rhy.crmprd.cnpc
+				10.30.221.31 gcjsfw.crmprd.cnpc
+				10.30.221.31 kl.crmprd.cpnpc
+				10.30.221.31 authb2b.crmprd.cnpc
+				10.30.221.31 devb2b.crmprd.cnpc
+				10.30.221.31 internalb2b.crmprd.cnpc
+			</W31>
+			<W32>
+				10.30.221.32 trq.crmprd.cnpc
+				10.30.221.32 rly.crmprd.cnpc
+				10.30.221.32 zbzz.crmprd.cnpc
+				10.30.221.32 gcjs.crmprd.cnpc
+				10.30.221.32 lyyhg.crmprd.cnpc
+				10.30.221.32 xspf.crmprd.cnpc
+				10.30.221.32 rhy.crmprd.cnpc
+				10.30.221.32 gcjsfw.crmprd.cnpc
+				10.30.221.32 kl.crmprd.cpnpc
+				10.30.221.32 authb2b.crmprd.cnpc
+				10.30.221.32 devb2b.crmprd.cnpc
+				10.30.221.32 internalb2b.crmprd.cnpc
+			</W32>
+		</web>
+		<adfs>
+			<A89>
+				10.30.221.89 adfs.crmprd.cnpc
+				10.30.221.89 sts.crmprd.cnpc
+			</A89>
+			<A90>
+				10.30.221.90 adfs.crmprd.cnpc
+				10.30.221.90 sts.crmprd.cnpc
+			</A90>
+			<A91>
+				10.30.221.91 adfs.crmprd.cnpc
+				10.30.221.91 sts.crmprd.cnpc
+			</A91>
+			<A92>
+				10.30.221.92 adfs.crmprd.cnpc
+				10.30.221.92 sts.crmprd.cnpc
+			</A92>
+		</adfs>
+	</ZB>
+	<SC>
+		<fzjh>
+			11.11.204.2  xsls.crmprd.cnpc
+			11.11.204.2  authb2c.crmprd.cnpc
+			11.11.204.2  devb2c.crmprd.cnpc
+			11.11.204.2  internalb2c.crmprd.cnpc
+			11.11.204.4  trq.crmprd.cnpc
+			11.11.204.4  rly.crmprd.cnpc
+			11.11.204.4  zbzz.crmprd.cnpc
+			11.11.204.4  gcjs.crmprd.cnpc
+			11.11.204.4  lyyhg.crmprd.cnpc
+			11.11.204.4  xspf.crmprd.cnpc
+			11.11.204.4  rhy.crmprd.cnpc
+			11.11.204.4  gcjsfw.crmprd.cnpc
+			11.11.204.4  kl.crmprd.cpnpc
+			11.11.204.4  authb2b.crmprd.cnpc
+			11.11.204.4  devb2b.crmprd.cnpc
+			11.11.204.4  internalb2b.crmprd.cnpc
+			11.11.204.12 adfs.crmprd.cnpc
+			11.11.204.12 sts.crmprd.cnpc
+			11.11.204.6  reportx.crmprd.cnpc
+			11.11.204.10 portal.crmprd.cnpc
+			11.11.204.8  m.crmprd.cnpc
+			11.11.204.9  cm.crmprd.cnpc
+		</fzjh>
+		<web>
+			<W13>
+				11.11.211.13 xsls.crmprd.cnpc
+				11.11.211.13 authb2c.crmprd.cnpc
+				11.11.211.13 devb2c.crmprd.cnpc
+				11.11.211.13 internalb2c.crmprd.cnpc
+			</W13>
+			<W14>
+				11.11.211.14 xsls.crmprd.cnpc
+				11.11.211.14 authb2c.crmprd.cnpc
+				11.11.211.14 devb2c.crmprd.cnpc
+				11.11.211.14 internalb2c.crmprd.cnpc
+			</W14>
+			<W15>
+				11.11.211.15 xsls.crmprd.cnpc
+				11.11.211.15 authb2c.crmprd.cnpc
+				11.11.211.15 devb2c.crmprd.cnpc
+				11.11.211.15 internalb2c.crmprd.cnpc
+			</W15>
+			<W16>
+				11.11.211.16 xsls.crmprd.cnpc
+				11.11.211.16 authb2c.crmprd.cnpc
+				11.11.211.16 devb2c.crmprd.cnpc
+				11.11.211.16 internalb2c.crmprd.cnpc
+			</W16>
+			<W17>
+				11.11.211.17 xsls.crmprd.cnpc
+				11.11.211.17 authb2c.crmprd.cnpc
+				11.11.211.17 devb2c.crmprd.cnpc
+				11.11.211.17 internalb2c.crmprd.cnpc
+			</W17>
+			<W18>
+				11.11.211.18 xsls.crmprd.cnpc
+				11.11.211.18 authb2c.crmprd.cnpc
+				11.11.211.18 devb2c.crmprd.cnpc
+				11.11.211.18 internalb2c.crmprd.cnpc
+			</W18>
+			<W25>
+				11.11.211.25 trq.crmprd.cnpc
+				11.11.211.25 rly.crmprd.cnpc
+				11.11.211.25 zbzz.crmprd.cnpc
+				11.11.211.25 gcjs.crmprd.cnpc
+				11.11.211.25 lyyhg.crmprd.cnpc
+				11.11.211.25 xspf.crmprd.cnpc
+				11.11.211.25 rhy.crmprd.cnpc
+				11.11.211.25 gcjsfw.crmprd.cnpc
+				11.11.211.25 kl.crmprd.cpnpc
+				11.11.211.25 authb2b.crmprd.cnpc
+				11.11.211.25 devb2b.crmprd.cnpc
+				11.11.211.25 internalb2b.crmprd.cnpc
+			</W25>
+			<W26>
+				11.11.211.26 trq.crmprd.cnpc
+				11.11.211.26 rly.crmprd.cnpc
+				11.11.211.26 zbzz.crmprd.cnpc
+				11.11.211.26 gcjs.crmprd.cnpc
+				11.11.211.26 lyyhg.crmprd.cnpc
+				11.11.211.26 xspf.crmprd.cnpc
+				11.11.211.26 rhy.crmprd.cnpc
+				11.11.211.26 gcjsfw.crmprd.cnpc
+				11.11.211.26 kl.crmprd.cpnpc
+				11.11.211.26 authb2b.crmprd.cnpc
+				11.11.211.26 devb2b.crmprd.cnpc
+				11.11.211.26 internalb2b.crmprd.cnpc
+			</W26>
+			<W27>
+				11.11.211.27 trq.crmprd.cnpc
+				11.11.211.27 rly.crmprd.cnpc
+				11.11.211.27 zbzz.crmprd.cnpc
+				11.11.211.27 gcjs.crmprd.cnpc
+				11.11.211.27 lyyhg.crmprd.cnpc
+				11.11.211.27 xspf.crmprd.cnpc
+				11.11.211.27 rhy.crmprd.cnpc
+				11.11.211.27 gcjsfw.crmprd.cnpc
+				11.11.211.27 kl.crmprd.cpnpc
+				11.11.211.27 authb2b.crmprd.cnpc
+				11.11.211.27 devb2b.crmprd.cnpc
+				11.11.211.27 internalb2b.crmprd.cnpc
+			</W27>
+			<W28>
+				11.11.211.28 trq.crmprd.cnpc
+				11.11.211.28 rly.crmprd.cnpc
+				11.11.211.28 zbzz.crmprd.cnpc
+				11.11.211.28 gcjs.crmprd.cnpc
+				11.11.211.28 lyyhg.crmprd.cnpc
+				11.11.211.28 xspf.crmprd.cnpc
+				11.11.211.28 rhy.crmprd.cnpc
+				11.11.211.28 gcjsfw.crmprd.cnpc
+				11.11.211.28 kl.crmprd.cpnpc
+				11.11.211.28 authb2b.crmprd.cnpc
+				11.11.211.28 devb2b.crmprd.cnpc
+				11.11.211.28 internalb2b.crmprd.cnpc
+			</W28>
+			<W29>
+				11.11.211.29 trq.crmprd.cnpc
+				11.11.211.29 rly.crmprd.cnpc
+				11.11.211.29 zbzz.crmprd.cnpc
+				11.11.211.29 gcjs.crmprd.cnpc
+				11.11.211.29 lyyhg.crmprd.cnpc
+				11.11.211.29 xspf.crmprd.cnpc
+				11.11.211.29 rhy.crmprd.cnpc
+				11.11.211.29 gcjsfw.crmprd.cnpc
+				11.11.211.29 kl.crmprd.cpnpc
+				11.11.211.29 authb2b.crmprd.cnpc
+				11.11.211.29 devb2b.crmprd.cnpc
+				11.11.211.29 internalb2b.crmprd.cnpc
+			</W29>
+			<W30>
+				11.11.211.30 trq.crmprd.cnpc
+				11.11.211.30 rly.crmprd.cnpc
+				11.11.211.30 zbzz.crmprd.cnpc
+				11.11.211.30 gcjs.crmprd.cnpc
+				11.11.211.30 lyyhg.crmprd.cnpc
+				11.11.211.30 xspf.crmprd.cnpc
+				11.11.211.30 rhy.crmprd.cnpc
+				11.11.211.30 gcjsfw.crmprd.cnpc
+				11.11.211.30 kl.crmprd.cpnpc
+				11.11.211.30 authb2b.crmprd.cnpc
+				11.11.211.30 devb2b.crmprd.cnpc
+				11.11.211.30 internalb2b.crmprd.cnpc
+			</W30>
+			<W31>
+				11.11.211.31 trq.crmprd.cnpc
+				11.11.211.31 rly.crmprd.cnpc
+				11.11.211.31 zbzz.crmprd.cnpc
+				11.11.211.31 gcjs.crmprd.cnpc
+				11.11.211.31 lyyhg.crmprd.cnpc
+				11.11.211.31 xspf.crmprd.cnpc
+				11.11.211.31 rhy.crmprd.cnpc
+				11.11.211.31 gcjsfw.crmprd.cnpc
+				11.11.211.31 kl.crmprd.cpnpc
+				11.11.211.31 authb2b.crmprd.cnpc
+				11.11.211.31 devb2b.crmprd.cnpc
+				11.11.211.31 internalb2b.crmprd.cnpc
+			</W31>
+			<W32>
+				10.30.221.32 trq.crmprd.cnpc
+				10.30.221.32 rly.crmprd.cnpc
+				10.30.221.32 zbzz.crmprd.cnpc
+				10.30.221.32 gcjs.crmprd.cnpc
+				10.30.221.32 lyyhg.crmprd.cnpc
+				10.30.221.32 xspf.crmprd.cnpc
+				10.30.221.32 rhy.crmprd.cnpc
+				10.30.221.32 gcjsfw.crmprd.cnpc
+				10.30.221.32 kl.crmprd.cpnpc
+				10.30.221.32 authb2b.crmprd.cnpc
+				10.30.221.32 devb2b.crmprd.cnpc
+				10.30.221.32 internalb2b.crmprd.cnpc
+			</W32>
+		</web>
+		<adfs>
+			<A115>
+				11.11.211.115 adfs.crmprd.cnpc
+				11.11.211.115 sts.crmprd.cnpc
+			</A115>
+			<A116>
+				11.11.211.116 adfs.crmprd.cnpc
+				11.11.211.116 sts.crmprd.cnpc
+			</A116>
+			<A117>
+				11.11.211.117 adfs.crmprd.cnpc
+				11.11.211.117 sts.crmprd.cnpc
+			</A117>
+			<A118>
+				11.11.211.118 adfs.crmprd.cnpc
+				11.11.211.118 sts.crmprd.cnpc
+			</A118>
+		</adfs>
+	</SC>
+</B3>

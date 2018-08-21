@@ -1,0 +1,60 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+0.0.0.0 crm.devolutions.net
+#会声会影屏蔽联网
+127.0.0.1 ipm.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 content.corel.com
+127.0.0.1 65.200.22.154
+127.0.0.1 65.200.22.99
+127.0.0.1 ipp.corel.com
+127.0.0.1 secure.ipp.corel.com
+#开发
+11.11.179.138	B3dvb2bcrmdb1
+11.11.179.165	o2xspf.crmdev.cnpc
+11.11.179.165	oauthb2b.crmdev.cnpc
+11.11.179.157	dadfs.crmdev.cnpc
+11.11.179.137	dauthb2b.crmdev.cnpc
+11.11.179.137	gcjs.crmdev.cnpc
+11.11.179.137	kl.crmdev.cnpc
+11.11.179.137	lyyhg.crmdev.cnpc
+11.11.179.137	rhy.crmdev.cnpc
+11.11.179.137	rly.crmdev.cnpc
+11.11.179.137	trq.crmdev.cnpc
+11.11.179.134	xsls.crmdev.cnpc
+11.11.179.137	xspf.crmdev.cnpc
+11.11.179.137	zbzz.crmdev.cnpc
+#正式
+#测试
+#11.11.179.13    trq1.crm.cnpc
+#11.11.179.13	tauthb2b.crm.cnpc
+#11.11.179.13	tauth.crm.cnpc
+#11.11.138.50	tadfs.crm.cnpc
+#11.11.143.5    gcjs.crm.cnpc
+#11.11.179.7	xsls.crm.cnpc
+#11.11.179.14	xspf.crm.cnpc
+#11.11.179.14	lyuat.crm.cnpc
+#11.11.179.13	lyyhg.crm.cnpc
+#11.11.138.49	b3adfs1.crm.cnpc
+#蓝鲸智云使用地址
+10.120.133.150 paas.blueking.com
+10.120.133.150 jobs.blueking.com
+10.120.133.150 cmdb.blueking.com
